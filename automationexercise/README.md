@@ -39,7 +39,7 @@ playwright install
 ```
 ## 🛠 Configuring pytest.ini
 
-The pytest.ini file is used to configure Pytest settings. You can customize test execution options, logging, and report generation.
+The **pytest.ini** file is used to configure Pytest settings. You can customize test execution options, logging, and report generation.
 
 
 ## 🏃 Running Tests
