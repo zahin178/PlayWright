@@ -27,7 +27,7 @@ source venv/bin/activate
 Run the following command to install required packages:
 
 ```
-pip install -r requirements.txt`
+pip install -r requirements.txt
 ```
 
 3️⃣ **Run Playwright Install**
